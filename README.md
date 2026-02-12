@@ -131,6 +131,7 @@ Research papers for software engineers to transition to AI Engineering
 - [uber queryGPT](https://www.uber.com/en-IN/blog/query-gpt/)
 
 ## Video Course
-
+ 
 AI Engineering: https://interviewready.io/course-page/ai-engineering
+White Pappers : https://www.youtube.com/c/YannicKilcher 
 
